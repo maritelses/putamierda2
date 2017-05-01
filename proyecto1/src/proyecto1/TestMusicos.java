@@ -7,7 +7,7 @@ package examen.recuperación.pkg2ª.evaluación;
 
 /**
  *
- * @author Marioly
+ * @author elautorsoyyocoñoooo
  */
 public class TestMusicos {
 
